@@ -1,3 +1,3 @@
 # Lesta UI Сomponents
 
-## Getting Started
+IN DEVELOPMENT...
